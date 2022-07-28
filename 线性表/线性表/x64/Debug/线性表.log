@@ -1,0 +1,8 @@
+﻿  线性表.c
+D:\vs\代码\线性表\线性表\线性表.c(104,12): warning C4047: “<”:“int *”与“int”的间接级别不同
+D:\vs\代码\线性表\线性表\线性表.c(104,28): warning C4047: “>”:“int *”与“int”的间接级别不同
+D:\vs\代码\线性表\线性表\线性表.c(105,11): warning C4098: “DelEle”:“void”函数返回值
+D:\vs\代码\线性表\线性表\线性表.c(107,11): warning C4098: “DelEle”:“void”函数返回值
+D:\vs\代码\线性表\线性表\线性表.c(109,30): warning C4047: “>=”:“int”与“int *”的间接级别不同
+D:\vs\代码\线性表\线性表\线性表.c(114,10): warning C4098: “DelEle”:“void”函数返回值
+  线性表.vcxproj -> D:\vs\代码\线性表\x64\Debug\线性表.exe
